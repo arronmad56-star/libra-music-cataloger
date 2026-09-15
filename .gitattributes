@@ -1,0 +1,9 @@
+# See https://github.com/github/linguist
+# Generated on 2026-11-10
+*.gif binary
+src/**/*.js linguist-detectable
+docs/* linguist-vendored
+**/*.js linguist-detectable
+*.min.css linguist-generated
+yarn.lock linguist-generated
+# eof 526655ab
