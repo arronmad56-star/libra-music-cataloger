@@ -1,0 +1,4 @@
+npm-debug.log*
+.pnpm-store/
+.next/
+.DS_Store
